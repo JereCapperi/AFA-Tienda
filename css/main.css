@@ -231,6 +231,12 @@ h4 {
     font-size: 0.90rem;
 }
 
+.divcarrito{
+    min-height: 100dvh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
 /** Carrito**/
 
 .contenedor-carrito {

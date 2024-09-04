@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../css/main.css">
 </head>
 <body>
-    <div class="wrapper">
+    <div class="wrapper divcarrito">
         <aside>
             <header>
                 <a href="../index.html" class="logo">
@@ -35,63 +35,27 @@
         <main>
             <h2 class="titulo-principal">Carrito </h2>
             <div class="contenedor-carrito">
-                <p class="carrito-vacio">Tu carrito esta vacío.</p>
+                <p id="carrito-vacio" class="carrito-vacio">Tu carrito esta vacío.</p>
 
-                <div class="carrito-productos disabled">
-                    <div class="carrito-producto">
-                        <img class="carrito-producto-imagen" src="./assets/camisetas/camisetatitularcopaamericamessi.avif" alt="">
-                        <div class="carrito-producto-titulo">
-                            <small>Titulo</small>
-                            <h3>Camiseta Titular 24 Messi</h3>
-                        </div>
-                        <div class="carrito-producto-cantidad">
-                            <small>Cantidad</small>
-                            <p>1</p>
-                        </div>
-                        <div class="carrito-producto-precio">
-                            <small>Precio</small>
-                            <p>$109999</p>
-                        </div>
-                        <div class="carrito-producto-subtotal">
-                            <small>Subtotal</small>
-                            <p>$109999</p>
-                        </div>
-                        <button class="carrito-producto-eliminar"><i class="bi bi-trash-fill"></i></button>
-                    </div>
-                    <div class="carrito-producto">
-                        <img class="carrito-producto-imagen" src="./assets/camisetas/camisetadiego.avif" alt="">
-                        <div class="carrito-producto-titulo">
-                            <small>Titulo</small>
-                            <h3>Camiseta Alternativa 1994 Maradona</h3>
-                        </div>
-                        <div class="carrito-producto-cantidad">
-                            <small>Cantidad</small>
-                            <p>1</p>
-                        </div>
-                        <div class="carrito-producto-precio">
-                            <small>Precio</small>
-                            <p>$149999</p>
-                        </div>
-                        <div class="carrito-producto-subtotal">
-                            <small>Subtotal</small>
-                            <p>$149999</p>
-                        </div>
-                        <button class="carrito-producto-eliminar"><i class="bi bi-trash-fill"></i></button>
-                    </div>
+                <div id="carrito-productos" class="carrito-productos disabled">
+                    <!-- se llena con JS -->
                 </div>
-                <div class="carrito-acciones disabled">
+
+                <div id="carrito-acciones" class="carrito-acciones disabled">
                     <div class="carrito-acciones-izquierda">
-                        <button class="carrito-acciones-vaciar">Vaciar carrito</button>
+                        <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
                     </div>
                     <div class="carrito-acciones-derecha">
                         <div class="carrito-acciones-total">
                             <p>Total:</p>
-                            <p id="total">$259998</p>
+                            <p id="total">$3000</p>
                         </div>
-                        <button class="carrito-acciones-comprar">Comprar ahora</button>
+                        <button id="carrito-acciones-comprar" class="carrito-acciones-comprar">Comprar ahora</button>
                     </div>
                 </div>
                 
+                <p id="carrito-comprado" class="carrito-comprado disabled titulo-principal">¡Muchas gracias por su compra!</p>
+
             </div>
         </main>
         <footer>
@@ -117,7 +81,7 @@
         </footer>
     </div>
 
+    <script src="../js/carrito.js"></script>
 
-    <script src="../js/main.js"></script>
 </body>
 </html>

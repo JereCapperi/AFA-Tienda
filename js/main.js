@@ -7,7 +7,7 @@ const productos = [
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 159999
+        "precio": 160000
     },
     {
         "id": "camisetas-16",
@@ -17,7 +17,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 59999
+        "precio": 60000
     },
     {
         "id": "camisetas-01",
@@ -27,7 +27,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 49999
+        "precio": 50000
     },
     {
         "id": "camisetas-02",
@@ -37,7 +37,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 99999
+        "precio": 100000
     },
     {
         "id": "camisetas-03",
@@ -47,7 +47,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 109999
+        "precio": 110000
     },
     {
         "id": "camisetas-04",
@@ -57,7 +57,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 99999
+        "precio": 100000
     },
     {
         "id": "camisetas-05",
@@ -67,7 +67,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 99999
+        "precio": 100000
     },
     {
         "id": "camisetas-06",
@@ -77,7 +77,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 69999
+        "precio": 70000
     },
     {
         "id": "pantalones-01",
@@ -87,7 +87,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 59999
+        "precio": 60000
     },
     {
         "id": "pantalones-02",
@@ -97,7 +97,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 59999
+        "precio": 60000
     },
     {
         "id": "pantalones-03",
@@ -107,7 +107,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 59999
+        "precio": 60000
     },
     {
         "id": "camisetas-07",
@@ -117,7 +117,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 49999
+        "precio": 50000
     },
     {
         "id": "pantalones-04",
@@ -127,7 +127,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 89999
+        "precio": 90000
     },
     {
         "id": "abrigo-01",
@@ -137,7 +137,7 @@ const productos = [
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 124999
+        "precio": 125000
     },
     {
         "id": "camisetas-08",
@@ -147,7 +147,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 49999
+        "precio": 50000
     },
     {
         "id": "abrigo-02",
@@ -157,7 +157,7 @@ const productos = [
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 129999
+        "precio": 130000
     },
     {
         "id": "camisetas-09",
@@ -167,7 +167,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 65999
+        "precio": 66000
     },
     {
         "id": "abrigo-03",
@@ -177,7 +177,7 @@ const productos = [
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 109999
+        "precio": 110000
     },
     {
         "id": "abrigo-04",
@@ -187,7 +187,7 @@ const productos = [
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 129999
+        "precio": 130000
     },
     {
         "id": "pantalones-05",
@@ -197,7 +197,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 84999
+        "precio": 85000
     },
     {
         "id": "pantalones-06",
@@ -207,7 +207,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 119999
+        "precio": 120000
     },
     {
         "id": "abrigo-05",
@@ -217,7 +217,7 @@ const productos = [
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 159999
+        "precio": 160000
     },
     {
         "id": "pantalones-07",
@@ -227,7 +227,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 119999
+        "precio": 120000
     },
     {
         "id": "abrigo-06",
@@ -237,7 +237,7 @@ const productos = [
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 129999
+        "precio": 130000
     },
     {
         "id": "pantalones-08",
@@ -247,7 +247,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 79999
+        "precio": 80000
     },
     {
         "id": "pantalones-09",
@@ -257,7 +257,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 59999
+        "precio": 60000
     },
     {
         "id": "camisetas-10",
@@ -267,7 +267,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 65999
+        "precio": 66000
     },
     {
         "id": "camisetas-11",
@@ -277,7 +277,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 55999
+        "precio": 56000
     },
     {
         "id": "abrigo-07",
@@ -287,7 +287,7 @@ const productos = [
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 159999
+        "precio": 160000
     },
     {
         "id": "pantalones-10",
@@ -297,7 +297,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 69999
+        "precio": 70000
     },
     {
         "id": "camisetas-12",
@@ -307,7 +307,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 65999
+        "precio": 66000
     },
     {
         "id": "abrigo-08",
@@ -317,7 +317,7 @@ const productos = [
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 189999
+        "precio": 190000
     },
     {
         "id": "camisetas-13",
@@ -327,7 +327,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 55999
+        "precio": 56000
     },
     {
         "id": "pantalones-11",
@@ -337,7 +337,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 129999
+        "precio": 130000
     },
     {
         "id": "abrigo-09",
@@ -347,7 +347,7 @@ const productos = [
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 119999
+        "precio": 120000
     },
     {
         "id": "abrigo-10",
@@ -357,7 +357,7 @@ const productos = [
             "nombre": "Abrigos",
             "id": "abrigos"
         },
-        "precio": 169999
+        "precio": 170000
     },
     {
         "id": "pantalones-12",
@@ -367,7 +367,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 89999
+        "precio": 90000
     },
     {
         "id": "camisetas-14",
@@ -377,7 +377,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 149999
+        "precio": 150000
     },
     {
         "id": "pantalones-13",
@@ -387,7 +387,7 @@ const productos = [
             "nombre": "Pantalones",
             "id": "pantalones"
         },
-        "precio": 32199
+        "precio": 32200
     },
     {
         "id": "camisetas-15",
@@ -397,7 +397,7 @@ const productos = [
             "nombre": "Camisetas",
             "id": "camisetas"
         },
-        "precio": 32199
+        "precio": 32200
     }
 ];
 
@@ -405,6 +405,7 @@ const contenedorProductos = document.querySelector("#contenedor-productos");
 const botonesCategorias = document.querySelectorAll(".boton-categoria");
 const tituloPrincipal = document.querySelector("#titulo-principal");
 let botonesAgregar = document.querySelectorAll(".producto-agregar");
+const numerito = document.querySelector("#numerito");
 
 
 function cargarProductos(productosElegidos) {
@@ -420,7 +421,8 @@ function cargarProductos(productosElegidos) {
             <div class="producto-detalles">
             <h3 class="producto-titulo">${producto.titulo}</h3>
             <p class="producto-precio">$${producto.precio}</p>
-            <button class="producto-agregar id="${producto.id}">Agregar</button>
+            <button class="producto-agregar" id="${producto.id}">Agregar</button>
+
         </div>
     `;
 
@@ -460,10 +462,19 @@ function actualizarBotonesAgregar() {
     });
 }
 
-const productosEnCarrito = [];
+let productosEnCarrito = [];
+
+let productosEnCarritoLS = localStorage.getItem("productos-en-carrito");
+
+if (productosEnCarritoLS) {
+    productosEnCarrito = JSON.parse(productosEnCarritoLS);
+    actualizarNumerito();
+} else {
+    productosEnCarrito = [];
+}
+
 
 function agregarAlCarrito(e) {
-
     const idBoton = e.currentTarget.id;
     const productoAgregado = productos.find(producto => producto.id === idBoton);
 
@@ -474,6 +485,14 @@ function agregarAlCarrito(e) {
         productoAgregado.cantidad = 1;
         productosEnCarrito.push(productoAgregado);
     }
-    
-    console.log(productosEnCarrito);
+
+    actualizarNumerito();
+
+    localStorage.setItem("productos-en-carrito", JSON.stringify(productosEnCarrito));
+}
+
+
+function actualizarNumerito() {
+    let nuevoNumerito = productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0);
+    numerito.innerText = nuevoNumerito;
 }
