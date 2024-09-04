@@ -3,7 +3,8 @@
 :root {
     --clr-main: #395a97;
     --clr-white: #F2F1F1;
-    --clr-celeste: #80b0c0;   
+    --clr-celeste: #80b0c0;
+    --clr-red: #f23b3b;
 }
 *{
     margin: 0;
