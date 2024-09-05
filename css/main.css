@@ -136,6 +136,11 @@ main{
     justify-content: center;
 }
 
+.tablaposicioneslpf{
+    display: flex;
+    justify-content: center;
+}
+
 .carrusel{
     display: flex;
     justify-content: center; 
@@ -415,7 +420,25 @@ h4 {
     }
 }
 
+@media screen and (max-width: 500px) {
+    .tablaposiciones {
+        height: 250px;
+    }
+    .tablaposicioneslpf{
+        height: 500px;
+    }
+    .contenedor-productos {
+        grid-template-columns: 1fr;
+    }
+}
+
 @media screen and (max-width: 400px) {
+    .tablaposiciones {
+        height: 150px;
+    }
+    .tablaposicioneslpf{
+        height: 400px;
+    }
     .contenedor-productos {
         grid-template-columns: 1fr;
     }
